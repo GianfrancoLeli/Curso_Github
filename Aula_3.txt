@@ -1,0 +1,540 @@
+    1  sudo apt intall git
+    2  sudo apt update
+    3  sudo apt install git
+    4  git version
+    5  git version 
+    6  git clone https://github.com/Lukff/revisao-html.git
+    7  ls
+    8  code revisao-html/
+    9  git config--global user.name Bearojasr
+   10  git--help
+   11  git config--global user.name'Bearojasr'
+   12  git--help
+   13  git config user.name
+   14  mkdir Curso_Git
+   15  git config--user.name 'Beatriz Rojas'
+   16  git config--global user.email 'beatrizadrianarojas@gmail.com'
+   17  git config user.name 
+   18  git config user.name
+   19  cd desktop/
+   20  cd
+   21  git status
+   22  git config--user.name
+   23  git--help'
+   24  config--user.name
+   25  history
+   26  git config--global user.name Bearojasr
+   27  pwd
+   28  ls
+   29  cd Curso_Git
+   30  ls
+   31  git config --global user.name 'Beatriz Rojas'
+   32  git config --global user.email 'beatrizadrianarojas@gmail.com'
+   33  cd ..
+   34  rmdir Curso_Git
+   35  ls
+   36  git clone https://github.com/bearojasr/Curso_Git.git
+   37  ls
+   38  cd Curso_Git
+   39  ls
+   40  git remote  -v
+   41  code .
+   42  git push
+   43  git pull
+   44  history
+   45  git status
+   46  git add .
+   47  git status
+   48  git commit -m "primer html"
+   49  git push
+   50  git status
+   51  clear
+   52  git status
+   53  clear
+   54  git config --global user.name "Beatriz Rojas"
+   55  git config --global user.email beatrizadrianarojas@gmail.com
+   56  git init
+   57  git status
+   58  git add.
+   59  git add .
+   60  git commit -m "Primeiro commit"
+   61  git remote add origin https://github.com/bearojasr/Exercicios-JavaScript.git
+   62  git branch -M main
+   63  git push -u origin main
+   64  git status
+   65  git remote add origin https://github.com/bearojasr/Exercicios-JavaScript.git
+   66  git push -u origin main
+   67  git init
+   68  git status
+   69  git add  Script.js 
+   70  git add  exercicio2-JavaScript.html
+   71  git init
+   72  git status
+   73  git add new file:   Script.js
+   74  git status
+   75  git add all
+   76  git add*
+   77  git init
+   78  git status
+   79  git commit -m
+   80  clear 
+   81  git init
+   82  git status
+   83  git add
+   84  git add.
+   85  git add*
+   86  git add *
+   87  git comit -m
+   88  clear
+   89  git init
+   90  git status
+   91  git commit -m
+   92  git -u
+   93  clear
+   94  git init
+   95  git status
+   96  git add JavaScript/exercicio2-JS
+   97  git commit -m "exercicioJS"
+   98  git remote add origin https://github.com/bearojasr/ExerciciosJavaScript.git
+   99  git branch -M main
+  100  git push -u origin main
+  101  git status
+  102  git init
+  103  git status
+  104  git add *
+  105  git status
+  106  git commit -m "adoptme"
+  107  git remote add origin https://github.com/bearojasr/ProjetoAdoptme.git
+  108  git pus -u origin master
+  109  git push -u origin master
+  110  git push
+  111  git status
+  112  git init
+  113  git status
+  114  git add *
+  115  git commit -m "iniciando adoptme"
+  116  git remote add origin https://github.com/bearojasr/ProjetoAdoptme.git
+  117  git push -u origin main
+  118  git status
+  119  git push
+  120  curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+  121  sudo apt install curl
+  122  curl -sL https://deb.nodesource.com/setup_15.x | sudo -E bash -
+  123  sudo apt-get install -y nodejs
+  124  node -v
+  125  ng new helloworld
+  126  ng serve
+  127  sudo npm install -g @angular/cli
+  128  ng v
+  129  ng g s produtos
+  130  ng serve
+  131  ng g c produtos
+  132  ng serve
+  133  ng g m produtos
+  134  ng serve
+  135  ng g s hora
+  136  ng serve
+  137  echo fs.inotify.max_user_watches=524288 | sudo tee -a /etc/sysctl.conf && sudo sysctl -p
+  138  ng new data-binding
+  139  ls
+  140  cd data-binding/
+  141  ls
+  142  ng serve
+  143  ls
+  144  cd data-binding/
+  145  ls
+  146  ng g c data-binding
+  147  ng serve
+  148  ls
+  149  cd data-binding/
+  150  ng serve
+  151  ng new exercicio01
+  152  ls
+  153  cd exercicio01/
+  154  ng g c eu
+  155  ng serve
+  156  ls 
+  157  cd exercicio01/
+  158  ng serve
+  159  git init
+  160  git status
+  161  git add *
+  162  git add
+  163  git add.
+  164  git add *
+  165  -f
+  166  git add *
+  167  -f
+  168  git add *
+  169  git add * -f
+  170  git status
+  171  git commit -m "exercicio01"
+  172  git remote add origin https://github.com/bearojasr/Angular-.git
+  173  git push -u origin main
+  174  git status
+  175  git push -u origin main
+  176  git push
+  177  error: src refspec main does not match any.
+  178  git remote add origin https://github.com/bearojasr/Angular-.git
+  179  git push -u origin main
+  180  git commit -m "exercicio01"
+  181  git add.
+  182  git --help
+  183  git add .
+  184  git remote add origin https://github.com/bearojasr/Angular-.git
+  185  git push -u origin main
+  186  git pull
+  187  git status
+  188  git reset HEAD <.browserslistrc
+  189  git status
+  190  git add
+  191  git add.
+  192  git push -u origin main
+  193  git push
+  194  git history
+  195  git status
+  196  git reset head
+  197  git status
+  198  git commit
+  199  ls
+  200  cd exercicio01/
+  201  git commit -m "exercicio01"
+  202  git remote add origin https://github.com/bearojasr/Angular-.git
+  203  git push -u origin main
+  204  git status
+  205  git init
+  206  git remote add origin https://github.com/bearojasr/Angular-.git
+  207  $ git remote add github git@github.com:ppreyer/first_app.git
+  208  git remote add github git@github.com:ppreyer/first_app.git
+  209  git push github master
+  210  git status
+  211  git init
+  212  git commit -m "exercicio01"
+  213  ng serve
+  214  git init
+  215  git commit -m "primer exercicio"
+  216  git remote add origin https://github.com/bearojasr/Angular.git
+  217  git status
+  218  git push -u origin main
+  219  clear
+  220  git init
+  221  git add .
+  222  git commit -m "exercicio01"
+  223  git checkout master
+  224  ls
+  225  No ramo master
+  226  git pull
+  227  git init
+  228  git status
+  229  ls
+  230  git remote add origin https://github.com/bearojasr/Angular.git
+  231  git remote set-url origin https://github.com/bearojasr/Angular.git
+  232  git status
+  233  git commit -m "exercicio01"
+  234  git push
+  235  git push --set-upstream origin master
+  236  ng new diretivas
+  237  cd diretivas/
+  238  ls
+  239  ng g c cursos
+  240  ng serve
+  241  ng g c ngclass; ng g c ngcontent; ng g c ngstyle
+  242  ng serve
+  243  ls
+  244  cd diretivas/
+  245  ng serve
+  246  ls
+  247  cd Arquivos_aula_13/
+  248  ng new starwars
+  249  ng serve
+  250  ls
+  251  cd starwars/
+  252  ng serve
+  253  ls
+  254  cd Arquivos_aula_13/
+  255  ls
+  256  cd starwars/
+  257  ng g c personagens
+  258  ng serve
+  259  ng g p snakecase
+  260  ng serve
+  261  ls
+  262  cd Arquivos_aula_13/
+  263  ls
+  264  cd starwars/
+  265  ng g c home; ng g c planetas
+  266  ng g m componentes
+  267  ng serve
+  268  ls
+  269  cd Arquivos_aula_13/
+  270  ls
+  271  cd starwars/
+  272  ng serve
+  273  ls
+  274  ls starwars
+  275  ls
+  276  ng serve
+  277  ng g s planetas
+  278  ng g s personagens
+  279  ng serve
+  280  ls
+  281  cd Arquivos_aula_13/
+  282  ls
+  283  cd starwars/
+  284  ls
+  285  ng serve
+  286  ng new formulario
+  287  ls
+  288  cd formulario/
+  289  ng serve
+  290  ng g s usuario
+  291  ng serve
+  292  ls
+  293  cd arquivos da aula/
+  294  cd formulario/
+  295  ng serve
+  296  java -jar api-contatos.jar
+  297  java-jar api.contatos.jar
+  298  ls
+  299  cd exercicio02/
+  300  ls
+  301  cd exercicio02/
+  302  java-jar api-contatos.jar
+  303  java -jar api-contatos.jar
+  304  ng new exercicio02
+  305  ng g component usuarios
+  306  ls
+  307  ng serve
+  308  cd exercicio02/
+  309  ng serve
+  310  ng g component usuarios
+  311  ng serve
+  312  ng g s usuario
+  313  ng serve
+  314  cd exercicio02/
+  315  ls
+  316  cd exercicio02/
+  317  ng serve
+  318  ls
+  319  cd exercicio02/
+  320  ng serve
+  321  git init
+  322  git remote add origin git@github.com:bearojasr/Angular.git
+  323  git status
+  324  git add *
+  325  -f
+  326  git status
+  327  git add .
+  328  git status
+  329  git commit -m "exercicio02"
+  330  git push -u 
+  331  git push --
+  332  git push -u origin master  
+  333  git push
+  334  git push --set-upstream origin master
+  335  git remote add origin  
+  336  git remove -v
+  337  git remote -v
+  338  git remote add origin https://github.com/bearojasr/Angular.git
+  339  git remote -v
+  340  git remote rm origin
+  341  git status
+  342  git remote set-url origin  https://github.com/bearojasr/Angular.git
+  343  git status
+  344  git pull
+  345  git push -u origin main
+  346  git push
+  347  git push exercicio02
+  348  git push --set-upstream exercicio02 master
+  349  git status
+  350  cd..
+  351  ls
+  352  git status
+  353  git commit -am exercicio02
+  354  git push -u origin master
+  355  cd ..
+  356  cd exercicio02
+  357  git commit -am "exercicio02"
+  358  git push
+  359  git push https://github.com/bearojasr/Angular.git
+  360  git push --set-upstream https://github.com/bearojasr/Angular.git master
+  361  git pull
+  362  git pull origin master
+  363  git pull origin master --allow-unrelated-histories
+  364  git status
+  365  ls
+  366  cd exercicio02/
+  367  git status
+  368  git pull origin master
+  369  git init
+  370  git status
+  371  git remote add origin https://github.com/bearojasr/Angular.git
+  372  git branch -M  main
+  373  git push -u origin main
+  374  git status
+  375  git commit -a
+  376  curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.37.2/install.sh
+  377  nvm
+  378  nvm install stable
+  379  nodejs version
+  380  "nodejs version"
+  381  exit
+  382  ls
+  383  nvm
+  384  exit
+  385  nvm
+  386  exit
+  387  ng serve
+  388  ls
+  389  cd exercicio02/
+  390  ng serve
+  391  ls
+  392  cd exercicio02/
+  393  ng serve
+  394  git status
+  395  git add src/app/app.module.ts  src/app/usuarios/usuarios.component.html src/app/usuarios/usuarios.component.html  src/app/usuarios/usuarios.component.ts 
+  396  git status
+  397  git add src/app/usuario.service.ts
+  398  git status
+  399  git commit -am "melhorando exercicio02"
+  400  git remote add origin https://github.com/bearojasr/Angular.git
+  401  git push -u origin master
+  402  git push origin master
+  403  ng new giphy-api
+  404  cd giphy-api
+  405  ng serve --open
+  406  cd giph-api
+  407  cd giphy-api1
+  408  ls
+  409  cd gif-api
+  410  cd gif
+  411  code.
+  412  code .
+  413  ng g c header --skipTests
+  414  ng serve
+  415  ng g c search --skipTests
+  416  ng serve
+  417  ng g s data --skipTests
+  418  ng g c gifs --skipTests
+  419  ng serve
+  420  git init
+  421  ls
+  422  git init
+  423  git remote add origin https://github.com/bearojasr/ProjetoAngular.git
+  424  git status
+  425  git add *
+  426  git status
+  427  git commit -m "subiendo Giphy Api"
+  428  git push origin master
+  429  git status
+  430  git push origin master
+  431  git init
+  432  git status
+  433  git add *
+  434  git status
+  435  git commit -m "subiendo portafolio"
+  436  git remote add origin https://github.com/bearojasr/Portafolio.git
+  437  git push -u origin main
+  438  git status
+  439  git push origin main
+  440  git push -u origin main
+  441  ng serve
+  442  ls
+  443  cd src/
+  444  ng serve
+  445  ls
+  446  cd app/
+  447  cd assets/
+  448  ng serve
+  449  ls
+  450  ng serve
+  451  git init
+  452  git status
+  453  git add .
+  454  git status
+  455  git commit -m "atualizaçao projeto"
+  456  git remote add origin https://github.com/bearojasr/ProjetoAdoptme-Update.git
+  457  git push origin master
+  458  git --version
+  459  git config --global user.name'Gfranco Leli'
+  460  clear
+  461  git config --global user.name"gianfranco leli"
+  462  clear
+  463  git config --global user.name ‘Gianfranco Leli’
+  464  git config --global user.email ‘gfranco.leli@gmail.com’
+  465  git config user name
+  466  git config user.name
+  467  git config --global user.name ‘Gianfranco Leli’
+  468  git config --global user.email ‘gfranco.leli@gmail.com’
+  469  git config user.name
+  470  cd desktop
+  471  cd Desktop/
+  472  mkdir Curso_Git
+  473  cd Curso_Git
+  474  git config user.name
+  475  git init
+  476  git status
+  477  echo  ‘#Aprendendo Git’ > readme.md
+  478  git status
+  479  git add readme.md
+  480  git status
+  481  git commit -m ‘Commit inicial’
+  482  git status
+  483  echo ‘##change 1’ >> readme.md
+  484  git status
+  485  git add.
+  486  git add .
+  487  git status
+  488  git commit -am
+  489  echo 'Gianfranco' > tarea.txt
+  490  git status
+  491  git add .
+  492  git status
+  493  git log
+  494  git status
+  495  git add .
+  496  git log --pretty=oneline
+  497  clear
+  498  git log -p
+  499  clear
+  500  git status
+  501  clear
+  502  touch teste
+  503  git add teste
+  504  git status
+  505  clear
+  506  git config --global user.name 'Gianfranco Leli'
+  507  clear
+  508  git config --global user.name 'Gianfranco'
+  509  clear
+  510  git config --global
+  511  git config --global user.name 'Gian Leli'
+  512  git config --replace-all
+  513  git config --global user.name ‘Gian Leli’
+  514  git config --global user.email ‘gfranco.leli@gmail.com’
+  515  git config user.name
+  516  cd Àrea de trabalho/
+  517  cd Desktop/
+  518  mkdir Curso_Github
+  519  git config user.name
+  520  cd Curso_Github
+  521  git config user.name
+  522  git init
+  523  git status
+  524  echo '#Aprendedo Github' > readme.md
+  525  git status
+  526  git add readme.md
+  527  git status
+  528  git commit -m ‘Commit uno’
+  529  git commit -m ‘Commit inicio’
+  530  git commit -m ‘Commit inicial’
+  531  git commit -m 'Commit inicial'
+  532  git status
+  533  echo '##Aula 1' >> readme.md
+  534  git status
+  535  echo 'Gian' > estudiante.txt
+  536  git status
+  537  git add.
+  538  git add .
+  539  git status
+  540  history > Aula_3.txt
